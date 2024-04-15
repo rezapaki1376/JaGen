@@ -1,5 +1,6 @@
 # JaGen
 Authors **Hossein Abbasimehr**, **Ali Noshad**, **Reza Paki**
+
 A novel featurization methodology using JaGen algorithm for time series forecasting with deep learning techniques,
 Expert Systems with Applications,
 Volume 235,
