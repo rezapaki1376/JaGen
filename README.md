@@ -1,4 +1,4 @@
-# JaGen ( Benchmark datasets and relevant codes included in this repository)
+# JaGen (Benchmark datasets and relevant code are included in this repository)
 Authors **Hossein Abbasimehr**, **Ali Noshad**, **Reza Paki**
 
 A novel featurization methodology using JaGen algorithm for time series forecasting with deep learning techniques,
